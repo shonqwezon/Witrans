@@ -1,0 +1,55 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MenuTabMain.qml</file>
+        <file>MenuAction.qml</file>
+        <file>RoundAvatar.qml</file>
+        <file>TriangleButton.qml</file>
+        <file>MenuSettings.qml</file>
+        <file>ItemMenuSettings.qml</file>
+        <file>Notification.qml</file>
+        <file>MenuNotifications.qml</file>
+        <file>PageSettings.qml</file>
+        <file>PageReport.qml</file>
+        <file>PageAddDevice.qml</file>
+        <file>CustomSwitch.qml</file>
+        <file>MenuTabAdd.qml</file>
+        <file>MenuTabProcess.qml</file>
+        <file>CustomPopup.qml</file>
+        <file>EventDataButton.qml</file>
+        <file>QuickResponse.qml</file>
+        <file>InputSavingPath.qml</file>
+        <file>CustomParameterSwitch.qml</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>icons/devices.png</file>
+        <file>icons/send.png</file>
+        <file>icons/download.png</file>
+        <file>icons/defaultUser.png</file>
+        <file>icons/triangleButton.png</file>
+        <file>icons/add.png</file>
+        <file>icons/report.png</file>
+        <file>icons/settings.png</file>
+        <file>icons/notificationChanged.png</file>
+        <file>icons/notificationClosed.png</file>
+        <file>icons/notificationOpened.png</file>
+        <file>icons/chooseAvatar.png</file>
+        <file>icons/qrFrame.png</file>
+        <file>icons/copyId.png</file>
+        <file>icons/markCheckCopy.png</file>
+        <file>icons/addDeviceId.png</file>
+        <file>icons/computer.png</file>
+        <file>icons/mobile.png</file>
+        <file>icons/delete.png</file>
+        <file>icons/txt.png</file>
+        <file>icons/doc.png</file>
+        <file>icons/unknownFile.png</file>
+        <file>icons/pdf.png</file>
+        <file>icons/deleteFiles.png</file>
+        <file>icons/sort.png</file>
+        <file>icons/pause.png</file>
+        <file>icons/play.png</file>
+        <file>icons/stop.png</file>
+        <file>icons/logoTray.png</file>
+    </qresource>
+</RCC>
